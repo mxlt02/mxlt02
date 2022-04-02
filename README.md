@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Flutter,Web Security
 - 🤔 I’m looking for help with  Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: lovelyalan@foxmail.com
+- 📫 How to reach me: a@mxlt.top
 
 <center class="half">
     <img src="https://github-readme-stats.vercel.app/api?username=mxlt02&count_private=true&bg_color=30,e96443,904e95&title_color=a0d911&text_color=fff" width="450"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxlt02&layout=compact&title_color=904e95" width="320" style="margin-top:-46px"/><img src="https://komarev.com/ghpvc/?username=mxlt02&style=plastic&color=a0d911" width="120" style="margin-top:-60px;margin-left:250px"/>
